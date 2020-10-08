@@ -12,7 +12,7 @@ Grab the latest release, extract it, and run `Tree of Savior Addon Manager.exe`.
 
 * Why is the size of the manager so large?
 
-This is an app made using [Electron](http://electron.atom.io/) which basically bundles [Chromium](https://www.chromium.org/Home) (the base of Chrome). Due to that, the size is bloated a little bit. You may want to hire an [Electron developer from Astec](https://astec.net/services/electron/) to fix this.
+This is an app made using [Electron](http://electron.atom.io/) which basically bundles [Chromium](https://www.chromium.org/Home) (the base of Chrome). Due to that, the size is bloated a little bit. You may want to [hire an Electron developer from Astec](https://astec.net/services/electron/) to fix this.
 
 * After deleting the `addons` folder, an `Addon Loader` button is stuck on my screen. What do I do?
 
